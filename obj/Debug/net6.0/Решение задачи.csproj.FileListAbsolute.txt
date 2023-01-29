@@ -1,0 +1,15 @@
+D:\Ксюша\FinalProject\Решение задачи\bin\Debug\net6.0\Решение задачи.exe
+D:\Ксюша\FinalProject\Решение задачи\bin\Debug\net6.0\Решение задачи.deps.json
+D:\Ксюша\FinalProject\Решение задачи\bin\Debug\net6.0\Решение задачи.runtimeconfig.json
+D:\Ксюша\FinalProject\Решение задачи\bin\Debug\net6.0\Решение задачи.dll
+D:\Ксюша\FinalProject\Решение задачи\bin\Debug\net6.0\Решение задачи.pdb
+D:\Ксюша\FinalProject\Решение задачи\obj\Debug\net6.0\Решение задачи.csproj.AssemblyReference.cache
+D:\Ксюша\FinalProject\Решение задачи\obj\Debug\net6.0\Решение задачи.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ксюша\FinalProject\Решение задачи\obj\Debug\net6.0\Решение задачи.AssemblyInfoInputs.cache
+D:\Ксюша\FinalProject\Решение задачи\obj\Debug\net6.0\Решение задачи.AssemblyInfo.cs
+D:\Ксюша\FinalProject\Решение задачи\obj\Debug\net6.0\Решение задачи.csproj.CoreCompileInputs.cache
+D:\Ксюша\FinalProject\Решение задачи\obj\Debug\net6.0\Решение задачи.dll
+D:\Ксюша\FinalProject\Решение задачи\obj\Debug\net6.0\refint\Решение задачи.dll
+D:\Ксюша\FinalProject\Решение задачи\obj\Debug\net6.0\Решение задачи.pdb
+D:\Ксюша\FinalProject\Решение задачи\obj\Debug\net6.0\Решение задачи.genruntimeconfig.cache
+D:\Ксюша\FinalProject\Решение задачи\obj\Debug\net6.0\ref\Решение задачи.dll
